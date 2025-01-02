@@ -23,7 +23,7 @@ This project uses a webcam to control screen brightness and cursor movement base
 
 1. Clone the repository:
     
-    git clone https://github.com/sammedBG/brightness-controller.git
+    https://github.com/SammedBG/Brightness-and-Cursor-Controller-Using-Hand-Gestures.git
     cd brightness-controller
   
 

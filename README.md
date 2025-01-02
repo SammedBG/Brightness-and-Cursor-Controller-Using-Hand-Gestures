@@ -1,4 +1,3 @@
-
 # Brightness and Cursor Controller
 
 This project uses a webcam to control screen brightness and cursor movement based on hand gestures. It leverages MediaPipe for hand landmark detection, OpenCV for video processing, and Tkinter for the user interface.
@@ -22,17 +21,18 @@ This project uses a webcam to control screen brightness and cursor movement base
 ## Installation
 
 1. Clone the repository:
+    ```sh
     
-    https://github.com/SammedBG/Brightness-and-Cursor-Controller-Using-Hand-Gestures.git
     cd brightness-controller
-  
+    ```
 
 2. Install the required packages:
-    
+    ```sh
     pip install opencv-python numpy screen-brightness-control tkinter pyautogui mediapipe
-    
+    ```
 
 ## Usage
 
 Run the main script to start the application:
+```sh
 python main.py
